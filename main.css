@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+	background-color: rgb(255,255,153);
+}
+h2 {
+	
+     background-color: rgb(255,205,180);
+     text-indent: 10px;
+}
+
+p {
+    font-style: italic;
+    font-size: 14pt;
+    margin-left: 3%;
+    }
+
+div {
+	margin-left: 30%;
+	border-style: solid;
+    border-width: thin;
+}
+
+footer {
+	text-align: center;
+	font-size: 125%;
+   	position: fixed;
+ 	bottom: 15px;
+ 	width: 100%;
+ 
+}
+
+
